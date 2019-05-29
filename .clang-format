@@ -1,0 +1,14 @@
+BasedOnStyle: WebKit
+BreakBeforeBraces: Custom
+BraceWrapping:
+    AfterClass:             true
+    AfterControlStatement:  true
+    AfterEnum:              true
+    AfterFunction:          true
+    AfterNamespace:         true
+    AfterStruct:            true
+    AfterUnion:             true
+    BeforeCatch:            true
+    BeforeElse:             true
+NamespaceIndentation:   All
+SpacesInAngles: true
