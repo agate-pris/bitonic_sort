@@ -1,0 +1,9 @@
+include_directories(
+    ./range-v3/include/
+    ./Catch2/single_include/
+    ./include/
+)
+enable_testing()
+add_subdirectory(
+    tests
+)
